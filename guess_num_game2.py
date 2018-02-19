@@ -4,6 +4,10 @@ import random
 
 def instructions(): 
 
+    """
+    function to show instructions to the user. 
+    """
+
     print("""
 
              ----GUESS THE NUMBER!---
@@ -79,29 +83,24 @@ def game():
 
 def retry(): 
 
+    """
+    function to ask user if he/she wants to play again
+    """
+
     print("""
-
         Do you wish to play again? (Y/N)
-
         """)
-
     ans = input(">>> ")
-
     if ans.lower() == 'y': 
         game == True
-        game() 
-        
+        game()  
     elif ans.lower() =='n': 
         print("""
-
             Thank you for playing!
-
             """)
     else: 
         print("""
-
             Please enter a valid input (Y/N)
-
             """)
 
 
