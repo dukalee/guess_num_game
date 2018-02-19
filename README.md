@@ -20,12 +20,12 @@ Your job is to guess it with as few attempts as possible.
 
 The secret number will not contain duplicates of numbers. (ie. 1100)
 
-##Creators
+## Creators
 
 dukalee 
 dukalee@naver.com
 
-##Version History
+## Version History
 
 * 1.1 
     * minor changes added (retry input, instructions)
