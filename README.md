@@ -1,6 +1,4 @@
-# Project Title
-
-Number Guessing Game (4 Digits)
+# Number Guessing Game 
 
 ## Program Description 
 
@@ -22,8 +20,8 @@ The secret number will not contain duplicates of numbers. (ie. 1100)
 
 ## Creators
 
-dukalee 
-dukalee@naver.com
+NAME: dukalee\
+Contact: dukalee@naver.com
 
 ## Version History
 
