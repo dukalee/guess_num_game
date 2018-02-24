@@ -1,7 +1,5 @@
 # Number Guessing Game 
 
-## Program Description 
-
 Made for python programming practice. 
 It is a game to guess a 4 digit number with the least tries as possible.
 
